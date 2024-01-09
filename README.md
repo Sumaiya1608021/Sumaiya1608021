@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumaiya Binta Rowshon</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src=https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
+<img align="right" alt="coding" width="400" src=[https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&psig=AOvVaw1KYx0HvIrbJYUH7f_CXNZa&ust=1704884078709000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODZn5-S0IMDFQAAAAAdAAAAABAD)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumaiya1608021&label=Profile%20views&color=0e75b6&style=flat" alt="sumaiya1608021" /> </p>
 
 - 🔭 I’m currently working on **Salon Service app**
